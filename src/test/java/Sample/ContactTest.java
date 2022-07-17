@@ -19,7 +19,10 @@ public class ContactTest {
 			System.out.println(url);
 		System.out.println("=======contact edited=======");
 		//Assert.fail();
-		System.out.println("=======contact edited=======");
+		System.out.println("=======contact modified=======");
+		
+		System.out.println("=======contact deleted=======");
+		
 		
 	}
 	/*@Test(groups="RegressionTest")
