@@ -24,6 +24,8 @@ public class ContactTest {
 		System.out.println("=======contact deleted=======");
 		
 		
+		System.out.println("=======Adding new statment in contact test=======");
+		
 	}
 	/*@Test(groups="RegressionTest")
 	public void createContactTest() {

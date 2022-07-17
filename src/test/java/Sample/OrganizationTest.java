@@ -9,7 +9,10 @@ public class OrganizationTest {
 		System.out.println("=========organization ceated============");
 		
 		System.out.println("=========organization deleted===========");
+		
+		System.out.println("=======Adding new statment in organization test=======");
 	}
+	
 	
 	@Test(groups = "SmokeTest")
 	public void editOrganization() {

@@ -9,6 +9,9 @@ public class ProductsTest {
 		System.out.println("==========product created==========");
 		
 		System.out.println("==========product deleted==========");
+		
+		System.out.println("=======Adding statment in product test=======");
+		
 	}
 	
 	@Test(groups = "RegressionTest")
